@@ -33,6 +33,6 @@ A top-down 96x96 RGB image of the car and race track.
 
 ## Run
 - To run the algorithm,  create a folder Training containing 2 folders: Logs and Saved model
-- Additionally, 2 trained models are loaded, one with 10k steps and another with 428k steps to test just loading the models.
+- Additionally, 2 trained models are loaded, one with 10k steps and another with 428k steps to test just loading the models.  
 ![image](https://github.com/fercho-0109/Self-Diving-with-Reinforcement-learning/assets/40362695/596d7dcd-090c-4c59-adc4-306dca4eea99)
 
