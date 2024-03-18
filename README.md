@@ -6,7 +6,7 @@ For any questions or suggestions write to alexismarino0109@gmail.com
 
 ## Summary.
 
-The repository provided showcases an illustrative implementation of a self-driving algorithm employing Reinforcement Learning techniques, utilizing the stable-Baselines3 library. This example serves as a practical demonstration of how RL algorithms can be applied to autonomous driving scenarios, enabling vehicles to learn optimal decision-making policies through interaction with their environment. By leveraging stable-Baselines3, a powerful RL library, this implementation offers a robust foundation for experimenting with OPP-Reinforcement Learning algorithm for specific autonomous driving task. it is programmed using a Phyton  
+The repository provided showcases an illustrative implementation of a self-driving algorithm employing Reinforcement Learning techniques, utilizing the stable-Baselines3 library. This example serves as a practical demonstration of how RL algorithms can be applied to autonomous driving scenarios, enabling vehicles to learn optimal decision-making policies through interaction with their environment. By leveraging stable-Baselines3, a powerful RL library, this implementation offers a robust foundation for experimenting with the PPO-Reinforcement Learning algorithm for specific autonomous driving tasks. it is programmed using a Phyton  
 https://stable-baselines3.readthedocs.io/en/master/
 
 ## Overview
